@@ -1,0 +1,5 @@
+# Ignore .settings folder
+.settings/
+
+# Ignore .vscode folder
+.vscode/
