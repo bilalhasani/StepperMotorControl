@@ -8,4 +8,11 @@ Stepper motor control interface is provided by a serial uart (USART1 of the STM3
 - START <speed in RPM> <Direction(0/1)>
 - STOP
 ### Dev Tools Used ###
-Basic peripheral selection and configuration is done by using STM32CubeIDE's pinout and configuration tool. Github copilot integration in VS code provided a super fast way to quickly implement this demo firmware. 
+Basic peripheral selection and configuration is done by using STM32CubeIDE's pinout and configuration tool. 
+![](images/pinout_config.jpg)
+![](images/clock_config.jpg)
+
+Github copilot integration in VS code provided a super fast way to quickly implement this demo firmware. 
+
+### Demo ###
+[Watch the video](images/demo.mp4)
